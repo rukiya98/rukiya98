@@ -23,9 +23,9 @@
 ---
 ### :man_technologist: About Me :
 
-- 🌱 I’m currently learning **React, java**
+- 🌱 I’m currently learning **GenAi, XAi**
 
-- 💬 Ask me about **Python, SQL**
+- 💬 Ask me about **Ai & Data Visualization**
 
 - 📫 How to reach me **Rukshanedirisinghe.98@gmail.com**
 
