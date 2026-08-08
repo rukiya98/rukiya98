@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rukshan%20Edirisinghe&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Forward%20Deployed&descAlignY=52&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rukshan%20Edirisinghe&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Forward%20Deployed%20Engineer&descAlignY=52&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+in+production;Turning+messy+enterprise+data+into+decisions;Shipping+with+customers%2C+not+just+for+them;Power+BI+%E2%80%A2+LLM+Agents+%E2%80%A2+Real-time+Computer+Vision" alt="Typing SVG" />
