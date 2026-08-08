@@ -68,7 +68,12 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
-          plugin_languages_sections: most-used, recently-used
+          # "recently-used" removed: its RecentAnalyzer crashes with
+          # "Cannot destructure property 'committer' of 'undefined'" when a
+          # commit in recent events points at a repo that's since been
+          # deleted, privatised or force-pushed. Uncaught TypeError, so
+          # plugins_errors_fatal can't contain it. "most-used" is unaffected.
+          plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 15
           # Stops vendored web assets from drowning out real work
